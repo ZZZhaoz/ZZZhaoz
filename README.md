@@ -27,7 +27,7 @@ Android app supporting communication for individuals with autism.
 
 ### 🃏 [Crazy 3s Card Game](https://github.com/sanjaygovindarajan/crazy_threes) | Java (May – Aug 2024)
 Multiplayer card game developed by a 6-member team.  
-- Applied Clean Architecture and SOLID principles for modular design.  
+- Applied Clean Architecture and SOLID principles to implement a persistence system.    
 - Achieved 95% test coverage with JUnit and regression testing.  
 
 
