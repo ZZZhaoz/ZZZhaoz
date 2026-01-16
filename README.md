@@ -24,7 +24,7 @@ Android app supporting communication for individuals with autism.
 - Designed real-time speech-to-text pipeline with Google Speech API.  
 - Implemented synchronized playback with multithreading and locks.
 
-### 💳 [Points Management Platform](https://github.com/your-username/points-management-platform) | Full-Stack Web App (Oct – Dec 2025)
+### 💳 [Points Management Platform](https://github.com/ZZZhaoz/points-management-platform) | Full-Stack Web App (Oct – Dec 2025)
 End-to-end points and rewards management system with role-based access control.  
 - Led full-stack architecture and development, delivering the system from feature definition to production deployment.  
 - Built RESTful backend services with Express and Prisma, implementing transactional business logic for points and promotions.  
