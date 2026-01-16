@@ -15,10 +15,10 @@ I'm **Jason Zhao**, a third-year Computer Science and Statistics student at the 
 ## 📂 Featured Projects
 
 ### 🤖 [MyCobot Automation](https://github.com/AccelerationConsortium/ac-dev-lab) 
-*UofT, Acceleration Consortium | May – Aug 2025*
-- Computer vision + robotics system using OpenCV, AprilTags, and Prefect.  
-- Built **hand–eye calibration** and pose estimation for vial pick-and-place.  
-- Integrated **MQTT messaging** to sync vision input with robotic control.  
+*Software Engineer | UofT, Acceleration Consortium | May – Aug 2025*
+- Developed a **computer vision + robotics** system using OpenCV, AprilTags, and MQTT.  
+- Built **hand–eye calibration** and pose estimation for automated vial pick-and-place.  
+- Integrated **MQTT-based messaging** to synchronize real-time vision input with robotic control.
 
 ### 📱 Assistive Communication App 
 *University of Arizona | Jan – Apr 2025 | (Private Repository)*
