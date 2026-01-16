@@ -8,10 +8,9 @@ I'm **Jason Zhao**, a third-year Computer Science and Statistics student at the 
 - Data Science: **Machine Learning, Data Visualization, R**
 
 ## 🚀 Current Focus
-- Exploring **Machine Learning**  
-- Learning more about **Full-Stack Development**  
-- Studying **Computer Graphics**  
-- Gaining knowledge in **Operating Systems**
+- Exploring **Deep Learning**  
+- Mastering **Cloud Infrastructure**
+- Deepening expertise in **Full-Stack Development**
 
 ## 📂 Featured Projects
 
@@ -23,7 +22,13 @@ Computer vision + robotics system using OpenCV, AprilTags, and Prefect.
 ### 📱 [Assistive Communication App](https://github.com/csc301-2025-s/project-29-Engineering-Innovation-Lab) | University of Arizona (Jan – Apr 2025)
 Android app supporting communication for individuals with autism.  
 - Designed real-time speech-to-text pipeline with Google Speech API.  
-- Implemented synchronized playback with multithreading and locks.  
+- Implemented synchronized playback with multithreading and locks.
+
+### 💳 [Points Management Platform](https://github.com/your-username/points-management-platform) | Full-Stack Web App (Oct – Dec 2025)
+End-to-end points and rewards management system with role-based access control.  
+- Led full-stack architecture and development, delivering the system from feature definition to production deployment.  
+- Built RESTful backend services with Express and Prisma, implementing transactional business logic for points and promotions.  
+- Designed frontend architecture in React with a standardized component system; implemented role-based dynamic feature switching and a data-driven analytics dashboard.
 
 ### 🃏 [Crazy 3s Card Game](https://github.com/sanjaygovindarajan/crazy_threes) | Java (May – Aug 2024)
 Multiplayer card game developed by a 6-member team.  
