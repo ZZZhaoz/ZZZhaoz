@@ -20,7 +20,7 @@ I'm **Jason Zhao**, a third-year Computer Science and Statistics student at the 
 - Built **hand–eye calibration** and pose estimation for automated vial pick-and-place.  
 - Integrated **MQTT-based messaging** to synchronize real-time vision input with robotic control.
 
-### 💳 [Points Management Platform](https://github.com/ZZZhaoz/points-management-platform) 
+### 💳 [Points Management Platform](https://github.com/ZZZhaoz/loyalty-rewards-web-application) 
 *Full-Stack Web App | Oct – Dec 2025*
 - Led **end-to-end architecture**, delivering the system from feature definition to production deployment.  
 - Built RESTful backend services with **Express and Prisma**, implementing transactional business logic.  
