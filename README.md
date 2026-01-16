@@ -30,12 +30,6 @@ End-to-end points and rewards management system with role-based access control.
 - Built RESTful backend services with Express and Prisma, implementing transactional business logic for points and promotions.  
 - Designed frontend architecture in React with a standardized component system; implemented role-based dynamic feature switching and a data-driven analytics dashboard.
 
-### 🃏 [Crazy 3s Card Game](https://github.com/sanjaygovindarajan/crazy_threes) | Java (May – Aug 2024)
-Multiplayer card game developed by a 6-member team.  
-- Applied Clean Architecture and SOLID principles to implement a persistence system.    
-- Achieved 95% test coverage with JUnit and regression testing.  
-
-
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/jason-zihan-zhao-531b8b2a6/)  
 - [Email](zzhao.zhao@mail.utoronto.ca)  
