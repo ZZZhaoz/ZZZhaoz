@@ -14,21 +14,23 @@ I'm **Jason Zhao**, a third-year Computer Science and Statistics student at the 
 
 ## 📂 Featured Projects
 
-### 🤖 [MyCobot Automation](https://github.com/AccelerationConsortium/ac-dev-lab) | UofT, Acceleration Consortium (May – Aug 2025)
-Computer vision + robotics system using OpenCV, AprilTags, and Prefect.  
-- Built hand–eye calibration and pose estimation for vial pick-and-place.  
-- Integrated MQTT messaging to sync vision input with robotic control.  
+### 🤖 [MyCobot Automation](https://github.com/AccelerationConsortium/ac-dev-lab) 
+*UofT, Acceleration Consortium | May – Aug 2025*
+- Computer vision + robotics system using OpenCV, AprilTags, and Prefect.  
+- Built **hand–eye calibration** and pose estimation for vial pick-and-place.  
+- Integrated **MQTT messaging** to sync vision input with robotic control.  
 
-### 📱 [Assistive Communication App](https://github.com/csc301-2025-s/project-29-Engineering-Innovation-Lab) | University of Arizona (Jan – Apr 2025)
-Android app supporting communication for individuals with autism.  
-- Designed real-time speech-to-text pipeline with Google Speech API.  
-- Implemented synchronized playback with multithreading and locks.
+### 📱 Assistive Communication App 
+*University of Arizona | Jan – Apr 2025 | (Private Repository)*
+- Android app supporting communication for individuals with autism.  
+- Designed real-time **speech-to-text pipeline** with Google Speech API.  
+- Implemented **synchronized playback** with multithreading and locks for stability.
 
-### 💳 [Points Management Platform](https://github.com/ZZZhaoz/points-management-platform) | Full-Stack Web App (Oct – Dec 2025)
-End-to-end points and rewards management system with role-based access control.  
-- Led full-stack architecture and development, delivering the system from feature definition to production deployment.  
-- Built RESTful backend services with Express and Prisma, implementing transactional business logic for points and promotions.  
-- Designed frontend architecture in React with a standardized component system; implemented role-based dynamic feature switching and a data-driven analytics dashboard.
+### 💳 [Points Management Platform](https://github.com/ZZZhaoz/points-management-platform) 
+*Full-Stack Web App | Oct – Dec 2025*
+- Led **end-to-end architecture**, delivering the system from feature definition to production deployment.  
+- Built RESTful backend services with **Express and Prisma**, implementing transactional business logic.  
+- Designed **React frontend** with role-based feature switching and a data-driven analytics dashboard.
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/jason-zihan-zhao-531b8b2a6/)  
