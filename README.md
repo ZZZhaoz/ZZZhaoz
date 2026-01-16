@@ -4,12 +4,12 @@ I'm **Jason Zhao**, a third-year Computer Science and Statistics student at the 
 
 ## 🔧 Skills & Tools
 - Programming: **Python, Java, C/C++**
-- Web Development: **HTML, CSS, JavaScript, Node.js, Django, SQL, REST APIs**
-- Data Science: **Machine Learning, Data Visualization, R**
+- Web Development: **HTML, CSS, JavaScript, React, Express, Node.js, Django, Prisma, SQL**
+- Data Science: **Machine Learning, Deep Learning, Data Analysis, Data Visualization, R**
 
 ## 🚀 Current Focus
 - Exploring **Deep Learning**  
-- Mastering **Cloud Infrastructure**
+- Mastering **Cloud Infrastructure** (Docker, AWS, Kubernetes)
 - Deepening expertise in **Full-Stack Development**
 
 ## 📂 Featured Projects
