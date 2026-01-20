@@ -26,6 +26,12 @@ I'm **Jason Zhao**, a third-year Computer Science and Statistics student at the 
 - Built RESTful backend services with **Express and Prisma**, implementing transactional business logic.  
 - Designed **React frontend** with role-based feature switching and a data-driven analytics dashboard.
 
+### 🃏 [Crazy 3s Card Game](https://github.com/sanjaygovindarajan/crazy_threes).
+*Software Developer | May – Aug 2024*
+- Implemented a **persistent game state** to support save and restore functionality.  
+- Developed a Java multiplayer card game using **Clean Architecture** and **SOLID principles**.  
+- Wrote **JUnit unit and regression tests**, achieving **95% test coverage**.
+
 ### 📱 Assistive Communication App 
 *University of Arizona | Jan – Apr 2025 | (Private Repository)*
 - Android app supporting communication for individuals with autism.  
