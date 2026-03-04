@@ -31,6 +31,12 @@ I'm **Jason Zhao**, a third-year Computer Science and Statistics student at the 
 - Led **end-to-end architecture**, delivering the system from feature definition to production deployment.  
 - Built RESTful backend services with **Express and Prisma**, implementing transactional business logic.  
 - Designed **React frontend** with role-based feature switching and a data-driven analytics dashboard.
+  
+### 📱 Assistive Communication App 
+*University of Arizona | Jan – Apr 2025 | (Private Repository)*
+- Android app supporting communication for individuals with autism.  
+- Designed real-time **speech-to-text pipeline** with Google Speech API.  
+- Implemented **synchronized playback** with multithreading and locks for stability.
 
 ### 🃏 [Crazy 3s Card Game](https://github.com/sanjaygovindarajan/crazy_threes)
 *Software Developer | May – Aug 2024*
@@ -38,11 +44,11 @@ I'm **Jason Zhao**, a third-year Computer Science and Statistics student at the 
 - Developed a Java multiplayer card game using **Clean Architecture** and **SOLID principles**.  
 - Wrote **JUnit unit and regression tests**, achieving **95% test coverage**.
 
-### 📱 Assistive Communication App 
-*University of Arizona | Jan – Apr 2025 | (Private Repository)*
-- Android app supporting communication for individuals with autism.  
-- Designed real-time **speech-to-text pipeline** with Google Speech API.  
-- Implemented **synchronized playback** with multithreading and locks for stability.
+### 🌍 [Earth–Moon–Sun Shader System](https://github.com/ZZZhaoz/showcase)
+*Computer Graphics Showcase | Nov 2025*
+- Built a real-time **Earth–Moon–Sun orbital simulation** using **OpenGL** and custom **GLSL shaders**.
+- Implemented **procedural planet rendering** with terrain layers, clouds, and bump-mapped lunar surfaces.
+- Developed a hierarchical **orbital transform system** and interactive camera controls for real-time animation.
   
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/jason-zihan-zhao-531b8b2a6/)  
