@@ -20,6 +20,12 @@ I'm **Jason Zhao**, a third-year Computer Science and Statistics student at the 
 - Built **hand–eye calibration** and pose estimation for automated vial pick-and-place.  
 - Integrated **MQTT-based messaging** to synchronize real-time vision input with robotic control.
 
+### 📈 [ChronoStock Data Pipeline](https://github.com/UofT-CSC490-W2026/ChronoStock)  
+*Cloud Data Engineering Project | Jan – Present*
+- Built a **cloud-based financial data pipeline** in **Python** ingesting stock, news, and Reddit data into **PostgreSQL RDS**.  
+- Deployed containerized ingestion services with **Docker** on **AWS EC2** with scalable **S3** storage for automated daily updates.  
+- Provisioned infrastructure using **Terraform**, configuring **VPC networking**, IAM roles, and database resources for **ML workflows**.
+
 ### 💳 [Points Management Platform](https://github.com/ZZZhaoz/loyalty-rewards-web-application) 
 *Full-Stack Web App | Oct – Dec 2025*
 - Led **end-to-end architecture**, delivering the system from feature definition to production deployment.  
